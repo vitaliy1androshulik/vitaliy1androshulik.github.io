@@ -48,13 +48,10 @@
     }
 </script>
 <body background="images/bg.jpg">
-    
     <!--===========Каркас сайта==========-->
     <table border="1" align="center" cellpadding="10">
         <tr>
-            <td background="images/bg-3.jpg"colspan="2" height = "150" align="right" hspace="5">
-                <img src="images/logo.png" height="180" width="180" align="left">
-                <font size="6" color="Maroon"><h1 class="shadowtext">Сайт Web-студії "Web-DECO"</h1></font></td>
+            <td background="images/bg-3.jpg"colspan="2" height = "150" align="right" hspace="5"><font size="5" color="Maroon"><h1 class="shadowtext">Сайт Web-студії "Web-DECO"</h1></font></td>
         </tr>
         <tr>
             <td colspan="2">
